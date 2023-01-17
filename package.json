@@ -1,6 +1,6 @@
 {
-  "name": "CheemsBot-MD",
-  "version": "6.0.0",
+  "name": "Queen-Anya-MD",
+  "version": "1.0.0",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "type": "commonjs",
   "scripts": {
@@ -15,9 +15,9 @@
     "bot",
     "bot-md",
     "multi-device",
-    "xeon-bot-inc"
+    "mr-hex-ultra-tech"
   ],
-  "author": "DGXeon",
+  "author": "MR-Hex-ULTRA-Tech",
   "license": "AGPL-3",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
@@ -81,10 +81,10 @@
     "src": "src"
   },
   "devDependencies": {},
-  "repository": "git+https://github.com/DGXeon/CheemsBot-MD6.git",
+  "repository": "git+https://github.com/MR-ULTRA-Tech/Queen-Anya-MD-V1-Test.git",
   "bugs": {
-    "url": "https://github.com/DGXeon/CheemsBot-MD6/issues"
+    "url": "https://github.com/MR-ULTRA-Tech/Queen-Anya-MD-V1-Test/issues"
   },
-  "homepage": "https://github.com/DGXeon/CheemsBot-MD6/#readme",
+  "homepage": "https://github.com/MR-ULTRA-Tech/Queen-Anya-MD-V1-Test#readme",
   "main": "index.js"
 }
