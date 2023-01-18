@@ -32,6 +32,11 @@ global.packname = "Qᴜᴇᴇɴ 𝙰𝚗𝚢𝚊 ᴍᴅ" //ur sticker watermark 
 global.author = "Qᴜᴇᴇɴ 𝙰𝚗𝚢𝚊 ᴍᴅ\n\n\nA whatsapp bot developed by\nᴹᴿ ʜᴇx ᴜʟᴛʀᴀ ᴛᴇᴄʜ\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +94711449492" //ur sticker watermark author
 global.wm = "Qᴜᴇᴇɴ 𝙰𝚗𝚢𝚊 ᴍᴅ." //ur watermark
 
+//BOT SETTINGS
+global.inboxmsg = "false"
+global.inboxmsg = "Inbox Block Activated By Queen Anya BOT Owner"
+global.welcomemsg = "false"
+
 // Other
 global.sessionName = 'session'
 global.prefa = ['','!','.','#','&']
