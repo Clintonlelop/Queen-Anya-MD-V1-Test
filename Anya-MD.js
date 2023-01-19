@@ -7544,13 +7544,17 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             break
             case 'command': {
 	const sections = [{
-                                  "title": "Initial Features Of Bot 🦄",
-                                  "rows": [
-                                          {
-                                  "title": "Bot Features ❤️",
-                                  "rows": [
-                                          {
-                
+                                                                       "title": "Initial Features Of Bot 🦄",
+								       "rows": [
+									       {
+										       
+										"title": "Other ☕",
+										"description": "Displays The List Of Other Features",
+										"rowId": `${prefix}othermenu`
+									}
+								]
+							},
+							{
 										"title": "ᴬⁿʸᵃ❀⃝ ᴀʟʟ ᴍᴇɴᴜ👑",
 										"description": "ᴅɪsᴘʟᴀʏ ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀʟʟ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs.",
 										"rowId": `${prefix}allmenu`
