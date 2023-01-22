@@ -72,7 +72,7 @@ async function startAnya() {
     const Anya = AnyaConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['Queen Anya MD','Safari','1.0.0'],
+        browser: ['Queen-Anya-MD','Safari','1.0.0'],
         auth: state
     })
 
