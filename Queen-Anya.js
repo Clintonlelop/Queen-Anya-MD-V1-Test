@@ -7544,17 +7544,13 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             break
             case 'command': {
 	const sections = [{
-                                                                       "title": "Initial Features Of Bot 🦄",
-								       "rows": [
-									       {
-										       
-										"title": "Other ☕",
-										"description": "Displays The List Of Other Features",
-										"rowId": `${prefix}othermenu`
-									}
-								]
-							},
-							{
+								"title": "Initial Features Of Bot 🦄",
+								"rows": [
+									{
+                                                                "title": "Bot Features ❤️",
+                                                                "rows": [
+                                                                        {
+                
 										"title": "ᴬⁿʸᵃ❀⃝ ᴀʟʟ ᴍᴇɴᴜ👑",
 										"description": "ᴅɪsᴘʟᴀʏ ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀʟʟ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs.",
 										"rowId": `${prefix}allmenu`
@@ -7574,7 +7570,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
                                                                                 "description": "ᴅɪsᴘʟᴀʏ ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀʟʟ ᴀɴᴛɪ ʟɪɴᴋs ᴄᴏᴍᴍᴀɴᴅs.",
                                                                                 "rowId": `${prefix}antilinkmenu`
                                                                                 },
-                                                                                {
+									     { 
 										"title": "ᴬⁿʸᵃ❀⃝ᴍᴀᴋᴇʀ ᴍᴇɴᴜ 🌈",
 										"description": "ᴅɪsᴘʟᴀʏ ᴛʜᴇ ʟɪsᴛ ᴏғ ᴍᴀᴋɪɴɢ ᴄᴏᴍᴍᴀɴᴅs.",
 										"rowId": `${prefix}makermenu`
@@ -7608,14 +7604,14 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 										"title": "ᴬⁿʸᵃ❀⃝ ɪᴍᴀɢᴇ ᴇғғᴇᴄᴛ ᴍᴇɴᴜ 🏞️",
 										"description": "ᴅɪsᴘʟᴀʏ ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀʟʟ ɪᴍᴀɢᴇ ᴇғғᴇᴄᴛ ᴄᴏᴍᴍᴀɴᴅs.",
 										"rowId": `${prefix}imageeffectmenu`
-									},
+									    },
 										{
-											"title": "ᴬⁿʸᵃ❀⃝ ᴀɴɪᴍᴇ ᴍᴇɴᴜ 😘",
+									        "title": "ᴬⁿʸᵃ❀⃝ ᴀɴɪᴍᴇ ᴍᴇɴᴜ 😘",
 										"description": "ᴅɪsᴘʟᴀʏ ᴛʜᴇ sᴇxʏ ᴀɴɪᴍᴇ ᴄᴏᴍᴍᴀɴᴅs.",
 										"rowId": `${prefix}animemenu`
 										},
 										{
-											"title": "ᴬⁿʸᵃ❀⃝ ᴇᴍᴏᴛᴇ ᴍᴇɴᴜ 😃",
+										"title": "ᴬⁿʸᵃ❀⃝ ᴇᴍᴏᴛᴇ ᴍᴇɴᴜ 😃",
 										"description": "ᴅɪsᴘʟᴀʏ ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀʟʟ ᴇᴍᴏᴛᴇ ᴄᴏᴍᴍᴀɴᴅs.",
 										"rowId": `${prefix}emotemenu`
 										},
@@ -7629,8 +7625,8 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 										"description": "ᴅɪsᴘʟᴀʏ ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀʟʟ ɴsғᴡ ᴄᴏᴍᴍᴀɴᴅs.",
 										"rowId": `${prefix}nsfwmenu`
 									     },
-										{
-											"title": "ᴬⁿʸᵃ❀⃝ ғᴜɴ ᴍᴇɴᴜ 😄",
+										 {
+										"title": "ᴬⁿʸᵃ❀⃝ ғᴜɴ ᴍᴇɴᴜ 😄",
 										"description": "ᴅɪsᴘʟᴀʏ ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀʟʟ ғᴜɴ ᴄᴏᴍᴍᴀɴᴅs.",
 										"rowId": `${prefix}funmenu`
 										},
@@ -7640,12 +7636,12 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 										"rowId": `${prefix}gamemenu`
 									},
 										{
-											"title": "ᴬⁿʸᵃ❀⃝ ᴄᴏɴᴠᴇʀᴛ ᴍᴇɴᴜ ⚒️",
+										"title": "ᴬⁿʸᵃ❀⃝ ᴄᴏɴᴠᴇʀᴛ ᴍᴇɴᴜ ⚒️",
 										"description": "ᴅɪsᴘʟᴀʏ ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀʟʟ ᴄᴏɴᴠᴇʀᴛ ᴄᴏᴍᴍᴀɴᴅs.",
 										"rowId": `${prefix}convertmenu`
 										},
 										{
-											"title": "ᴬⁿʸᵃ❀⃝ ᴅᴀᴛᴀʙᴀsᴇ ᴍᴇɴᴜ ♻️",
+										"title": "ᴬⁿʸᵃ❀⃝ ᴅᴀᴛᴀʙᴀsᴇ ᴍᴇɴᴜ ♻️",
 										"description": "ᴅɪsᴘʟᴀʏ ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀʟʟ ᴅᴀᴛᴀʙᴀsᴇ ᴄᴏᴍᴍᴀɴᴅs.",
 										"rowId": `${prefix}databasemenu`
 										},
