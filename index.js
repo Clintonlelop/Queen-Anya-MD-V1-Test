@@ -99,7 +99,7 @@ async function startAnya() {
         if (!Anya.public && !mek.key.fromMe && chatUpdate.type === 'notify') return
         if (mek.key.id.startsWith('BAE5') && mek.key.id.length === 16) return
         m = smsg(Anya, mek, store)
-        require("./Anya-MD")(Anya, m, chatUpdate, store)
+        require("./Queen-Anya")(Anya, m, chatUpdate, store)
         } catch (e) {
             console.log(e)
         }
