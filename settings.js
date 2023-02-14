@@ -14,28 +14,28 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94711449492'] //ur owner number
-global.ownername = "ᴹᴿ ʜᴇx ᴜʟᴛʀᴀ ᴛᴇᴄʜ" //ur owner name
-global.ytname = "ᴹᴿ ʜᴇx ᴜʟᴛʀᴀ ᴛᴇᴄʜ" //ur yt chanel name
-global.socialm = "GitHub: ᴹᴿ ʜᴇx ᴜʟᴛʀᴀ ᴛᴇᴄʜ" //ur github or insta name
+global.owner = ['94717775628'] //ur owner number
+global.ownername = "💘💘JANITH RASHMIKA💘💘" //ur owner name
+global.ytname = "GAMING WITH RASH SL" //ur yt chanel name
+global.socialm = "GitHub: RASHMIKA" //ur github or insta name
 global.location = "American, Newyork" //ur location
 
 //bot bomdy 
-global.ownernomer = "94711449492" //ur number
-global.premium = ['94711449492'] //ur premium number
-global.botname = 'Qᴜᴇᴇɴ 𝙰𝚗𝚢𝚊 ᴍᴅ' //ur bot name
+global.ownernomer = "94717775628" //ur number
+global.premium = ['94717775628'] //ur premium number
+global.botname = 'QUEEN ANYA MD' //ur bot name
 global.linkz = "" //your theme url which will be displayed on whatsapp
 global.websitex = "" //ur website to be displayed
 global.botscript = '' //script link
 global.themeemoji = "💃" //ur theme emoji
 global.packname = "Qᴜᴇᴇɴ 𝙰𝚗𝚢𝚊 ᴍᴅ" //ur sticker watermark packname
-global.author = "Qᴜᴇᴇɴ 𝙰𝚗𝚢𝚊 ᴍᴅ\n\n\nA whatsapp bot developed by\nᴹᴿ ʜᴇx ᴜʟᴛʀᴀ ᴛᴇᴄʜ\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +94711449492" //ur sticker watermark author
+global.author = "Qᴜᴇᴇɴ 𝙰𝚗𝚢𝚊 ᴍᴅ\n\n\nA whatsapp bot developed by\GAMING RASH\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : 94717775628" //ur sticker watermark author
 global.wm = "Qᴜᴇᴇɴ 𝙰𝚗𝚢𝚊 ᴍᴅ." //ur watermark
 
 //BOT SETTINGS
-global.inboxmsg = "false"
-global.inboxmsg = "Inbox Block Activated By Queen Anya BOT Owner"
-global.welcomemsg = "false"
+global.inboxmsg = "true"
+global.inboxmsg = "Inbox Block Activated By Queen Anya BOT Owner ..join bot group https://chat.whatsapp.com/DCIXHjbVnqGC9124XzQpD9"
+global.welcomemsg = "true"
 
 // Other
 global.sessionName = 'session'
